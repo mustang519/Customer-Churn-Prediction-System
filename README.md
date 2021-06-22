@@ -79,7 +79,12 @@ I have deployed the model using Flask in the backend.
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+![Screenshot (179)](https://user-images.githubusercontent.com/75406889/122975215-bfc51080-d3b0-11eb-9dfa-1379ad38eb6d.png)
+![Screenshot (180)](https://user-images.githubusercontent.com/75406889/122975228-c489c480-d3b0-11eb-854a-80012e0f1d77.png)
+![Screenshot (181)](https://user-images.githubusercontent.com/75406889/122975244-c8b5e200-d3b0-11eb-9187-b824f75dfb1d.png)
+![Screenshot (185)](https://user-images.githubusercontent.com/75406889/122975260-cc496900-d3b0-11eb-95ca-ee03a594e9d8.png)
+![Screenshot (186)](https://user-images.githubusercontent.com/75406889/122975273-cfdcf000-d3b0-11eb-85ee-6b67434aafb1.png)
+![Screenshot (187)](https://user-images.githubusercontent.com/75406889/122975291-d4090d80-d3b0-11eb-9035-6ccc3798433a.png)
 
 
 
