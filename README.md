@@ -78,9 +78,9 @@ I have deployed the model using Flask API in the backend.
 
 Here's how the Churn Prediction System works !!!
 
-Running the web app:
+**Procedure for running the web app:**
 
-Download all the files in the repository.Transfer these files('app.py','templates','static',model.pkl') to your python directory. Run the file app.py in the python command line. Finally,the web application runs on your localhost, on your default web browser.
+Download all the files in the repository.Transfer these files ('app.py','templates','static', Churn_Prediction_Model.pkl') to your python directory. Run the file app.py in the python command line. Finally,the web application runs on your localhost, on your default web browser.
 
 ![Screenshot (179)](https://user-images.githubusercontent.com/75406889/122975215-bfc51080-d3b0-11eb-9dfa-1379ad38eb6d.png)
 ![Screenshot (180)](https://user-images.githubusercontent.com/75406889/122975228-c489c480-d3b0-11eb-854a-80012e0f1d77.png)
