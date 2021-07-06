@@ -53,7 +53,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#Approach">Approach</a></li>
+    <li><a href="#approach">Approach</a></li>
     <!--
     <li><a href="#acknowledgements">Acknowledgements</a></li>
     -->
